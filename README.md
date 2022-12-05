@@ -98,15 +98,12 @@ This:
 
 ### 1. Choose category;
 
-<p align="right" width="100%">
-    Choose category.<br>
-    <img width="33%" src="/Users/anna/dev/sei-nyc-1114/code-alongs/Class_practic/My_First_Project/AnnaDruzhinina_Trivia_Megan/AnnaDruzhinina-Trivia-Megan/src/choose_category.jpg"> 
-</p>
-<p align="right" width="100%">
-    Choose category.<br>
+<p align="center" width="100%">
+    <br>
     <img width="33%" src="src/choose_category.jpg"> 
 </p>
-![category](src/choose_category.jpg)<br>
+
+<!-- ![category](src/choose_category.jpg)<br> -->
 
 ### 2. Display random questions from the question set;<br>
 
