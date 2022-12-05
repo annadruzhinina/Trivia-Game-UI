@@ -102,34 +102,58 @@ This:
     <br>
     <img width="50%" src="src/choose_category.jpg"> 
 </p>
-
+<br>
 <!-- ![category](src/choose_category.jpg)<br> -->
 
 ### 2. Display random questions from the question set;<br>
 
-![questions](src/question.jpg)<br>
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/question.jpg"> 
+</p>
+<br>
 
 ### 3. Pick one answer (the button's background is changed to grey color ) and click on the "Check Answer" button:<br>
 
-![checkAnswer](src/selected_question.jpg)<br>
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/selected_question.jpg"> 
+</p>
+<br>
 
 #### - if the answer is correct: the button's background is changed to green color, starScore update +5, question +1/10, and appear button "Next Question";<br>
 
-![correctAnswer](src/right_answer.jpg)<br>
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/right_answer.jpg"> 
+</p>
+<br>
 
 #### - if the answer is incorrect: the button's background is changed to red color, starScore dosen't update, question +1/10, and appear button "Next Question";<br>
 
-![wrongAnswer](src/wrong_answer.jpg)<br>
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/wrong_answer.jpg"> 
+</p>
+
+<br>
 
 ### 4. Final screen:<br>
 
 #### - if user answered all questions right:
 
-![maxScoreFinishGame](src/quiz_complete_maxScore.jpg)
-
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/quiz_complete_maxScore.jpg"> 
+</p>
+<br>
 #### - if user didn't answered all questions right:<br>
 
-![finishGame](src/quiz_complete.jpg)<br>
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/quiz_complete.jpg"> 
+</p>
+<br>
 
 <a id="futureFeatures"></a>
 
