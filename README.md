@@ -141,7 +141,15 @@ This:
 
 <br>
 
-### 4. Final screen:<br>
+### 4. User didn't choose any answer:
+
+<p align="center" width="100%">
+    <br>
+    <img width="50%" src="src/noAnswer.jpg"> 
+</p>
+<br>
+
+### 5. Final screen:<br>
 
 #### - if user answered all questions right:
 
