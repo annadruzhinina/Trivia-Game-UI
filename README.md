@@ -171,7 +171,7 @@ This:
 
 # Future Features:
 
-1. 1. Make this app a team game as well;
+1. Make this app a team game as well;
 2. Add timer;
 3. If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input;
 4. Display page where users can see:
