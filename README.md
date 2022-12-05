@@ -120,7 +120,7 @@ This:
 
 #### - if user answered all questions right:
 
-![maxScoreFinishGame](src/quiz_complete_maxScore.png)
+![maxScoreFinishGame](src/quiz_complete_maxScore.jpg)
 
 #### - if user didn't answered all questions right:<br>
 
