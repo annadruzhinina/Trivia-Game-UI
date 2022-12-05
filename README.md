@@ -100,7 +100,7 @@ This:
 
 <p align="center" width="100%">
     <br>
-    <img width="33%" src="src/choose_category.jpg"> 
+    <img width="50%" src="src/choose_category.jpg"> 
 </p>
 
 <!-- ![category](src/choose_category.jpg)<br> -->
