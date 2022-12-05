@@ -11,8 +11,7 @@
 1. [Benefits of playing trivia and quiz games](#benefits)
 1. [Technology](#technology)  
 1. [Technical Requirements](#technicalRequirements)
-1. [Technologies Used](#technologiesUsed)  
-1. [Additional resources](#resources)
+1. [Additional resources](#resources) 
 1. [Download Install](#downloadInstall)
 
 <!-- /MarkdownTOC -->
@@ -20,13 +19,13 @@
 
 <a id="liveDemo"></a>
 
-## Live demo:
+# Live demo:
 
 https://annadruzhinina.github.io/Project1_Trivia/
 
 <a id="description"></a>
 
-## Project Description:
+# Project Description:
 
 This is a front-end web application developed as my first personal project while studying at General
 Assembly.
@@ -35,40 +34,38 @@ Trivia is a type of game in which players are asked questions about different to
 
 <a id="benefits"></a>
 
-## Benefits of playing trivia and quiz games:
+# Benefits of playing trivia and quiz games:
 
 Unfortunately every year we grow a bit older and we realize that our mind is not as sharp and fast as it used to be. If we don’t train our brain, it gets harder for us to remember, concentrate and learn new skills and information.
 Quiz questions can help prevent this process to go so fast as it serves as a form of exercise for our brain.
 
 <a id="technology"></a>
 
-## Technology:
+# Technology:
 
 - JavaScript
 - HTML/CSS
 
 <a id="technicalRequirements"></a>
 
-## Technical requirements
+# Technical requirements
 
 - Render app in browser. Hosted on github pages
 - Include seperate HTML/CSS/JavaScript files
 - Use JavaScript for DOM manipulation
 - Use semantic, valid markup for HTML and CSS (must pass validation without errors)
 
-<a id="technologiesUsed"></a>
-
 <a id="resources"></a>
 
-## Additional resources:
+# Additional resources:
 
-### 1. Customizable JavaScript popup boxes
+## 1. Customizable JavaScript popup boxes
 
-#### A beautiful, responsive, customizable accessibility (WAI-ARIA) replacement for JavaScript popup boxes.
+### A beautiful, responsive, customizable accessibility (WAI-ARIA) replacement for JavaScript popup boxes.
 
 > [https://sweetalert2.github.io/#frameworks-integrations](https://sweetalert2.github.io/#frameworks-integrations)
 
-#### Download & Install
+### Download & Install
 
 This:
 
@@ -76,7 +73,7 @@ This:
 > npm install sweetalert2
 > ```
 
-#### Or grab from: [jsdelivr CDN](https://www.jsdelivr.com/package/npm/sweetalert2) ;
+### Or grab from: [jsdelivr CDN](https://www.jsdelivr.com/package/npm/sweetalert2) ;
 
 This:
 
@@ -84,27 +81,27 @@ This:
 > <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 > ```
 
-### 2. Make a set of questions
+## 2. Make a set of questions
 
-#### Generate Trivia questions:
+### Generate Trivia questions:
 
 > [https://opentdb.com/api_config.php](https://opentdb.com/api_config.php);
 
-#### JSON Pretty Print:
+### JSON Pretty Print:
 
 > [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print);
 
-## Before You Begin:
+# Before You Begin:
 
-#### 1. Choose category;
+### 1. Choose category;
 
 ![category](src/choose_category.jpg)<br>
 
-#### 2. Display random questions from the question set;<br>
+### 2. Display random questions from the question set;<br>
 
 ![questions](src/question.jpg)<br>
 
-#### 3. Pick one answer (the button's background is changed to grey color ) and click on the "Check Answer" button:<br>
+### 3. Pick one answer (the button's background is changed to grey color ) and click on the "Check Answer" button:<br>
 
 ![checkAnswer](src/selected_question.jpg)<br>
 
@@ -116,7 +113,7 @@ This:
 
 ![wrongAnswer](src/wrong_answer.jpg)<br>
 
-#### 4. Final screen:<br>
+### 4. Final screen:<br>
 
 #### - if user answered all questions right:
 
@@ -126,7 +123,7 @@ This:
 
 ![finishGame](src/quiz_complete.jpg)<br>
 
-## Future Features:
+# Future Features:
 
 1. Make this app a team game;
 2. Add timer;
