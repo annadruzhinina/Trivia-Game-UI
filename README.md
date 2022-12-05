@@ -7,7 +7,7 @@
 <!-- MarkdownTOC -->
   
 1. [Live demo](#liveDemo)
-1. [Description](#description)
+1. [Project Description](#description)
 1. [Benefits of playing trivia and quiz games](#benefits)
 1. [Technology](#technology)  
 1. [Technical Requirements](#technicalRequirements)
@@ -102,42 +102,39 @@ This:
 
 #### 2. Display random questions from the question set;<br>
 
-![category](src/question.jpg)<br>
+![questions](src/question.jpg)<br>
 
-#### 3. Pick one answer (the button's background is changed to green color grey) and click on the "Check Answer" button:<br>
+#### 3. Pick one answer (the button's background is changed to grey color ) and click on the "Check Answer" button:<br>
 
-![category](src/selected_question.jpg)<br>
+![checkAnswer](src/selected_question.jpg)<br>
 
 #### - if the answer is correct: the button's background is changed to green color, starScore update +5, question +1/10, and appear button "Next Question";<br>
 
-![category](src/right_answer.jpg)<br>
+![correctAnswer](src/right_answer.jpg)<br>
 
 #### - if the answer is incorrect: the button's background is changed to red color, starScore dosen't update, question +1/10, and appear button "Next Question";<br>
 
-![category](src/wrong_answer.jpg)<br>
+![wrongAnswer](src/wrong_answer.jpg)<br>
 
 #### 4. Final screen:<br>
 
 #### - if user answered all questions right:
 
-![src/quiz_complete_maxScore.png)
+![maxScoreFinishGame](src/quiz_complete_maxScore.png)
 
 #### - if user didn't answered all questions right:<br>
 
-![category](src/quiz_complete.jpg)<br>
+![finishGame](src/quiz_complete.jpg)<br>
 
 ## Future Features:
 
 1. Make this app a team game;
 2. Add timer;
-3. If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input.
+3. If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input;
 4. Display competition page where users can see:
 
-- a bunch of teams or just individual score,
-- the time that each team spent on the game,
-- correct and incorrect answers by team,
+- a bunch of teams or just individual score;
+- the time that each team spent on the game;
+- correct and incorrect answers by team;
 
-5. Calculate the winning score using each team's total score and time spent
-
-1. If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input.
-1. On the final screen, show the number of correct answers, incorrect answers, and an option to restart the game (without reloading the page).
+5. Calculate the winning score using each team's total score and time spent.
