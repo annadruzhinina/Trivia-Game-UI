@@ -12,7 +12,7 @@
 1. [Technology](#technology)  
 1. [Technical Requirements](#technicalRequirements)
 1. [Additional resources](#resources) 
-1. [Before You Begin](#beforeYouBegin)
+1. [Getting Started](#gettingStarted)
 1. [Future Features](#futureFeatures)
 
 <!-- /MarkdownTOC -->
@@ -22,7 +22,7 @@
 
 # Live demo:
 
-https://annadruzhinina.github.io/Project1_Trivia/
+https://annadruzhinina.github.io/AnnaDruzhinina-Trivia-Megan/
 
 <a id="description"></a>
 
@@ -51,10 +51,13 @@ Quiz questions can help prevent this process to go so fast as it serves as a for
 
 # Technical requirements
 
-- Render app in browser. Hosted on github pages
-- Include seperate HTML/CSS/JavaScript files
-- Use JavaScript for DOM manipulation
-- Use semantic, valid markup for HTML and CSS (must pass validation without errors)
+- Render app in browser. Hosted on github pages;
+- Include seperate HTML/CSS/JavaScript files;
+- Use JavaScript for DOM manipulation;
+- Use semantic, valid markup for HTML and CSS (must pass validation without errors);
+- Have properly indented HTML, CSS & JavaScript. In addition, vertical whitespace needs to be consistent;
+- No remaining dead and/or commented out code (code that will never be called);
+- Have functions and variables that are named sensibly. Remember, functions are typically named as verbs, and variables (data) are named as nouns;
 
 <a id="resources"></a>
 
@@ -92,9 +95,9 @@ This:
 
 > [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print);
 
-<a id="beforeYouBegin"></a>
+<a id="gettingStarted"></a>
 
-# Before You Begin:
+# Getting Started:
 
 ### 1. Choose category;
 
@@ -147,6 +150,7 @@ This:
     <img width="50%" src="src/quiz_complete_maxScore.jpg"> 
 </p>
 <br>
+
 #### - if user didn't answered all questions right:<br>
 
 <p align="center" width="100%">
@@ -159,13 +163,13 @@ This:
 
 # Future Features:
 
-1. Make this app a team game;
+1. 1. Make this app a team game as well;
 2. Add timer;
 3. If the player selects the correct answer, show a screen congratulating them for choosing the right option. After a few seconds, display the next question -- do this without user input;
-4. Display competition page where users can see:
+4. Display page where users can see:
 
-- a bunch of teams or just individual score;
-- the time that each team spent on the game;
-- correct and incorrect answers by team;
+- the teams or individual score depends which tipe of game was selected at the begining;
+- the time that each team(user) spent on the game;
+- correct and incorrect answers by team(user);
 
 5. Calculate the winning score using each team's total score and time spent.
