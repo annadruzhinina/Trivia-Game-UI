@@ -12,7 +12,8 @@
 1. [Technology](#technology)  
 1. [Technical Requirements](#technicalRequirements)
 1. [Additional resources](#resources) 
-1. [Download Install](#downloadInstall)
+1. [Before You Begin](#beforeYouBegin)
+1. [Future Features](#futureFeatures)
 
 <!-- /MarkdownTOC -->
 </details>
@@ -91,10 +92,20 @@ This:
 
 > [https://jsonformatter.org/json-pretty-print](https://jsonformatter.org/json-pretty-print);
 
+<a id="beforeYouBegin"></a>
+
 # Before You Begin:
 
 ### 1. Choose category;
 
+<p align="right" width="100%">
+    Choose category.<br>
+    <img width="33%" src="/Users/anna/dev/sei-nyc-1114/code-alongs/Class_practic/My_First_Project/AnnaDruzhinina_Trivia_Megan/AnnaDruzhinina-Trivia-Megan/src/choose_category.jpg"> 
+</p>
+<p align="right" width="100%">
+    Choose category.<br>
+    <img width="33%" src="src/choose_category.jpg"> 
+</p>
 ![category](src/choose_category.jpg)<br>
 
 ### 2. Display random questions from the question set;<br>
@@ -122,6 +133,8 @@ This:
 #### - if user didn't answered all questions right:<br>
 
 ![finishGame](src/quiz_complete.jpg)<br>
+
+<a id="futureFeatures"></a>
 
 # Future Features:
 
