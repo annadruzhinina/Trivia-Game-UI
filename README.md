@@ -23,12 +23,13 @@
 ## Live demo:
 
 https://annadruzhinina.github.io/Project1_Trivia/
-This is a front-end web application developed as my first personal project while studying at General
-Assembly.
 
 <a id="description"></a>
 
 ## Project Description:
+
+This is a front-end web application developed as my first personal project while studying at General
+Assembly.
 
 Trivia is a type of game in which players are asked questions about different topics and they have to get as many correct answers as possible. Trivia contests are usually organized as part of events, parties and as pub entertainment. Normally contestants are organized in teams and the team who gets the higher score wins.
 
@@ -50,14 +51,12 @@ Quiz questions can help prevent this process to go so fast as it serves as a for
 
 ## Technical requirements
 
-In this assignment, You'll create a Trivia game using JavaScript for the logic and DOM to manipulate HTML. se semantic, valid markup for HTML and CSS (must pass validation without errors)
+- Render app in browser. Hosted on github pages
+- Include seperate HTML/CSS/JavaScript files
+- Use JavaScript for DOM manipulation
+- Use semantic, valid markup for HTML and CSS (must pass validation without errors)
 
 <a id="technologiesUsed"></a>
-
-## Technologies Used
-
-- Front-end: HTML, CSS; <br>
-- Back-end: JavaScript;
 
 <a id="resources"></a>
 
