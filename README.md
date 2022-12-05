@@ -63,7 +63,7 @@ Quiz questions can help prevent this process to go so fast as it serves as a for
 
 ## Additional resources:
 
-## 1. Customizable JavaScript popup boxes
+### 1. Customizable JavaScript popup boxes
 
 ### A beautiful, responsive, customizable accessibility (WAI-ARIA) replacement for JavaScript popup boxes.
 
@@ -85,7 +85,7 @@ This:
 > <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 > ```
 
-## 2. Make a set of questions
+### 2. Make a set of questions
 
 ### Generate Trivia questions:
 
@@ -97,7 +97,7 @@ This:
 
 <a id="gettingStarted"></a>
 
-# Getting Started:
+## Getting Started:
 
 ### 1. Choose category;
 
