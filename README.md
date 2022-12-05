@@ -1,6 +1,6 @@
 # Trivia Game.
 
-# Table of Contents
+## Table of Contents
 
 <details>
 <summary><b>(click to expand)</b></summary>
@@ -26,7 +26,7 @@ https://annadruzhinina.github.io/AnnaDruzhinina-Trivia-Megan/
 
 <a id="description"></a>
 
-# Project Description:
+## Project Description:
 
 This is a front-end web application developed as my first personal project while studying at General
 Assembly.
@@ -35,21 +35,21 @@ Trivia is a type of game in which players are asked questions about different to
 
 <a id="benefits"></a>
 
-# Benefits of playing trivia and quiz games:
+## Benefits of playing trivia and quiz games:
 
 Unfortunately every year we grow a bit older and we realize that our mind is not as sharp and fast as it used to be. If we don’t train our brain, it gets harder for us to remember, concentrate and learn new skills and information.
 Quiz questions can help prevent this process to go so fast as it serves as a form of exercise for our brain.
 
 <a id="technology"></a>
 
-# Technology:
+## Technology:
 
 - JavaScript
 - HTML/CSS
 
 <a id="technicalRequirements"></a>
 
-# Technical requirements
+## Technical requirements
 
 - Render app in browser. Hosted on github pages;
 - Include seperate HTML/CSS/JavaScript files;
@@ -61,7 +61,7 @@ Quiz questions can help prevent this process to go so fast as it serves as a for
 
 <a id="resources"></a>
 
-# Additional resources:
+## Additional resources:
 
 ## 1. Customizable JavaScript popup boxes
 
@@ -169,7 +169,7 @@ This:
 
 <a id="futureFeatures"></a>
 
-# Future Features:
+## Future Features:
 
 1. Make this app a team game as well;
 2. Add timer;
