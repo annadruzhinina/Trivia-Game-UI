@@ -13,7 +13,6 @@ const view = {
   //🍄 buttons
   checkAnswer: document.getElementById("check_answer"),
   nextQuestion: document.querySelector("#next_question"),
-  playAgain: document.querySelector("#play-again"),
   startNewGameBtn: document.querySelector(".startNewGameBtn"),
 
   catoryAbutton: document.querySelector("#catoryAbtn"),
@@ -28,9 +27,9 @@ const view = {
   answer4: document.getElementById("answer4"),
 
   //screens
-  complete: document.querySelector("#complete"),
-  quiz: document.querySelector("#quiz"),
   chooseCategory: document.querySelector("#chooseCategory"),
+  quiz: document.querySelector("#quiz"),
+  complete: document.querySelector("#complete"),
 
   //final score
   finishScore: document.querySelector(".finishScore"),
@@ -395,12 +394,12 @@ view.catoryDbutton.innerText = categories.catoryDbtn.title;
 //⭐️start game⭐️
 
 //randomQuestion
-function randomQuestion(questions) {
-  const index = Math.floor(Math.random() * questions.length);
-  //console.log(questions[index]);
-  return questions[index];
-}
-randomQuestion(gameQuestionsSet);
+// function randomQuestion(questions) {
+//   const index = Math.floor(Math.random() * questions.length);
+//   //console.log(questions[index]);
+//   return questions[index];
+// }
+// randomQuestion(gameQuestionsSet);
 
 //initial conditions
 const gameState = {
@@ -418,6 +417,7 @@ const gameState = {
 //category selection page
 function chooseCategoriesClick(event) {
   console.log(event);
+  //used it for understanding on which category I clicked
   let targetElement = event.srcElement || event.target;
   console.log(targetElement.id);
   console.log(categories[targetElement.id]);
@@ -512,9 +512,9 @@ function checkAnswer(event) {
     });
     return;
   }
-  view.nextQuestion.classList.remove("hidden");
-  gameState.currentAnswerElement.classList.remove("wrongAnswer");
-  gameState.currentAnswerElement.classList.remove("rightAnswer");
+  // view.nextQuestion.classList.remove("hidden");
+  // gameState.currentAnswerElement.classList.remove("wrongAnswer");
+  // gameState.currentAnswerElement.classList.remove("rightAnswer");
 
   if (
     gameState.currentAnswer ===
