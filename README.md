@@ -22,7 +22,7 @@
 
 # Live demo:
 
-https://annadruzhinina.github.io/AnnaDruzhinina-Trivia-Megan/
+https://annadruzhinina.github.io/Trivia-Game-UI/
 
 <a id="description"></a>
 
